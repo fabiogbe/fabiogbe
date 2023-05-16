@@ -5,7 +5,12 @@
 - 📫 How to reach me: fabio@bell-finance.com.br
 
 [![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiogbe)](https://github.com/fabiogbe/github-readme-stats)
+![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiogbe&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiogbe)](https://github.com/fabiogbe/github-readme-stats)
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiogbe&size_weight=0.5&count_weight=0.5)](https://github.com/fabiogbe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiogbe&layout=compact)](https://github.com/fabiogbe/github-readme-stats)
 
 <!--
 **fabiogbe/fabiogbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
