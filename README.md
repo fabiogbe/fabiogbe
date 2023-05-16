@@ -4,7 +4,8 @@
 - 💬 Ask me about Custom Connectors for Power BI
 - 📫 How to reach me: fabio@bell-finance.com.br
 
-[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiogbe)](https://github.com/fabiogbe/github-readme-stats)
+<!--[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiogbe)](https://github.com/fabiogbe/github-readme-stats)-->
+
 ![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiogbe&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiogbe)](https://github.com/fabiogbe/github-readme-stats)
