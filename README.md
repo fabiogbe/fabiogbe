@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a finance and data consultant
+- 🔭 I’m currently working as a Finance and Data consultant
 - 💬 Ask me about Custom Connectors for Power BI
 - 📫 How to reach me: fabio@bell-finance.com.br
+- 🌐 Check out my website on http://www.bell-finance.com.br
 
 
 ![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiogbe&show_icons=true&theme=synthwave)
