@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a finance and data consultant
+- 💬 Ask me about Custom Connectors for Power BI
+- 📫 How to reach me: fabio@bell-finance.com.br
+
+[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiogbe)](https://github.com/fabiogbe/github-readme-stats)
+
+
 <!--
 **fabiogbe/fabiogbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
